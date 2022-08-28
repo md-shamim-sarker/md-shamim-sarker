@@ -19,24 +19,24 @@
 - Code Link: https://github.com/programming-hero-web-course2/best-five-dom-assignment-shamimspro
 - Live Preview: https://wondrous-paletas-9dcd3d.netlify.app/
 
-## 06. Eid Zakat:
+# My Practice Projects
+
+## 01. Eid Zakat:
 - Code Link: https://github.com/shamimspro/eid-zakat/
 - Live Preview: https://shamimspro.github.io/eid-zakat/
 
-## 07. Tech Lab:
+## 02. Tech Lab:
 - Code Link: https://github.com/shamimspro/tech-lab/
 - Live Preview: https://shamimspro.github.io/tech-lab/
 
-## 08. Leader Board:
+## 03. Leader Board:
 - Code Link: https://github.com/shamimspro/leader-board/
 - Live Preview: https://shamimspro.github.io/leader-board/
 
-
-
-## 09. Convention Center New:
+## 04. Convention Center New:
 - Code Link: https://github.com/shamimspro/convention-center-new/
 - Live Preview: https://soft-kataifi-13f743.netlify.app/
 
-## 10. Panda Commerce Bootstrap
+## 05. Panda Commerce Bootstrap
 - Code Link: https://github.com/shamimspro/panda-commerce-bootstrap/
 - Live Preview: https://helpful-lokum-add43b.netlify.app/
