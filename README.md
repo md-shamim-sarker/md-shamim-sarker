@@ -39,4 +39,4 @@
 
 ## 05. Panda Commerce Bootstrap
 - Code Link: https://github.com/shamimspro/panda-commerce-bootstrap/
-- Live Preview: https://helpful-lokum-add43b.netlify.app/
+- Live Preview: https://shamimspro.github.io/panda-commerce-bootstrap/
