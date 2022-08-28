@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# 01. Donate Today:
+# 01. Donate Today (Assignment 01)
 - Code Link: https://github.com/shamimspro/donate-today/
 - Live Preview: https://shamimspro.github.io/donate-today/
 
