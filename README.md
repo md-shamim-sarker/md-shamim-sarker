@@ -43,6 +43,14 @@
 - Code Link: https://github.com/shamimspro/panda-commerce-bootstrap/
 - Live Preview: https://shamimspro.github.io/panda-commerce-bootstrap/
 
-## 06. Search Footballer By Name (Using API)
+## 06. Nike React Commerce Bootstrap
+- Code Link: https://github.com/shamimspro/nike-react-bootstrap
+- Live Preview: https://iridescent-dasik-1b023c.netlify.app/
+
+## 07. Simple Bank Using JavaScript DOM
+- Code Link: https://github.com/shamimspro/simple-bank
+- Live Preview: https://singular-boba-643bbc.netlify.app/
+
+## 08. Search Footballer By Name (Using API)
 - Code Link: https://github.com/shamimspro/search-footballer-api
 - Live Preview: https://beamish-kelpie-50204b.netlify.app/
