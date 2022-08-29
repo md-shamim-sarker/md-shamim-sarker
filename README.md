@@ -42,3 +42,7 @@
 ## 05. Panda Commerce Bootstrap
 - Code Link: https://github.com/shamimspro/panda-commerce-bootstrap/
 - Live Preview: https://shamimspro.github.io/panda-commerce-bootstrap/
+
+## 06. Search Footballer By Name (Using API)
+- Code Link: https://github.com/shamimspro/search-footballer-api
+- Live Preview: https://beamish-kelpie-50204b.netlify.app/
