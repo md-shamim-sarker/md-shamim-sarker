@@ -58,3 +58,7 @@
 ## 09. Phone Hunter (Using API)
 - Code Link: https://github.com/shamimspro/phone-hunter
 - Live Preview: https://incredible-boba-3e55ab.netlify.app/
+  
+## 10. Cocktail DB API (Using API)
+- Code Link: https://github.com/shamimspro/cocktail-db-api
+- Live Preview: https://iridescent-trifle-4def49.netlify.app/
