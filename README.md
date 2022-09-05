@@ -21,6 +21,10 @@
 - Code Link: https://github.com/programming-hero-web-course2/best-five-dom-assignment-shamimspro
 - Live Preview: https://wondrous-paletas-9dcd3d.netlify.app/
 
+## 06. News Portal (Assignment 06)
+- Code Link: https://github.com/Programming-Hero-Web-Course4/b6-news-portal-assignment-shamimspro
+- Live Preview: https://poetic-palmier-aa25e4.netlify.app/
+
 # My Practice Projects
 
 ## 01. Eid Zakat:
@@ -62,3 +66,7 @@
 ## 10. Cocktail DB API (Using API)
 - Code Link: https://github.com/shamimspro/cocktail-db-api
 - Live Preview: https://iridescent-trifle-4def49.netlify.app/
+
+## 11. Weather Updates By City (Using Real Api)
+- Code Link: https://github.com/shamimspro/weather-api
+- Live Preview: https://jocular-gumdrop-1ab022.netlify.app
