@@ -70,3 +70,7 @@
 ## 11. Weather Updates By City (Using Real Api)
 - Code Link: https://github.com/shamimspro/weather-api
 - Live Preview: https://jocular-gumdrop-1ab022.netlify.app
+
+## 12. CRUD Operation (Using Browser Local Storage)
+- Code Link: https://github.com/shamimspro/crud-local-storage
+- Live Preview: https://peaceful-beignet-132ced.netlify.app/
