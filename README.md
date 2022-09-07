@@ -73,4 +73,4 @@
 
 ## 12. CRUD Operation (Using Browser Local Storage)
 - Code Link: https://github.com/shamimspro/crud-local-storage
-- Live Preview: https://peaceful-beignet-132ced.netlify.app/
+- Live Preview: https://crud-local-storage-shamimspro.netlify.app/
