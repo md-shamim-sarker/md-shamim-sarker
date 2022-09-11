@@ -51,9 +51,9 @@
 - Code Link: https://github.com/shamimspro/nike-react-bootstrap
 - Live Preview: https://iridescent-dasik-1b023c.netlify.app/
 
-## 07. Simple Bank Using JavaScript DOM
+## 07. Simple Bank Using JavaScript DOM (Local Storage)
 - Code Link: https://github.com/shamimspro/simple-bank
-- Live Preview: https://singular-boba-643bbc.netlify.app/
+- Live Preview: https://simple-bank-shamimspro.netlify.app/
 
 ## 08. Search Footballer By Name (Using API)
 - Code Link: https://github.com/shamimspro/search-footballer-api
