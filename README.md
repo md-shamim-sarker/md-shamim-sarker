@@ -4,7 +4,7 @@
 
 ## 01. Donate Today (Assignment 01)
 - Code Link: https://github.com/shamimspro/donate-today/
-- Live Preview: https://shamimspro.github.io/donate-today/
+- Live Preview: https://donate-today-shamimspro.netlify.app/
 
 ## 02. Fifa World Cup (Assignment 02)
 - Code Link: https://github.com/shamimspro/fifa-world-cup/
