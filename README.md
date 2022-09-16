@@ -23,7 +23,7 @@
 
 ## 06. News Portal (Assignment 06)
 - Code Link: https://github.com/Programming-Hero-Web-Course4/b6-news-portal-assignment-shamimspro
-- Live Preview: https://poetic-palmier-aa25e4.netlify.app/
+- Live Preview: https://bangladesh-news-shamimspro.netlify.app/
 
 # My Practice Projects
 
