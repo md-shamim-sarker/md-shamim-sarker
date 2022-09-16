@@ -8,7 +8,7 @@
 
 ## 02. Fifa World Cup (Assignment 02)
 - Code Link: https://github.com/shamimspro/fifa-world-cup/
-- Live Preview: https://shamimspro.github.io/fifa-world-cup/
+- Live Preview: https://fifa-world-cup-shamimspro.netlify.app/
 
 ## 03. Digital Education (Assignment 03)
 - Code Link: https://github.com/shamimspro/digital-education/
