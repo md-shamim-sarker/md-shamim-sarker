@@ -19,7 +19,7 @@
 
 ## 05. Select Best Five Players (Assignment 05)
 - Code Link: https://github.com/programming-hero-web-course2/best-five-dom-assignment-shamimspro
-- Live Preview: https://wondrous-paletas-9dcd3d.netlify.app/
+- Live Preview: https://favorite-five-shamimspro.netlify.app/
 
 ## 06. News Portal (Assignment 06)
 - Code Link: https://github.com/Programming-Hero-Web-Course4/b6-news-portal-assignment-shamimspro
