@@ -12,7 +12,7 @@
 
 ## 03. Digital Education (Assignment 03)
 - Code Link: https://github.com/shamimspro/digital-education/
-- Live Preview: https://dapper-brigadeiros-780757.netlify.app/ 
+- Live Preview: https://digital-education-shamimspro.netlify.app/
 
 ## 04. Problem Solving With JavaScript (Assignment 04)
 - Code Link: https://github.com/shamimspro/assignment-4
