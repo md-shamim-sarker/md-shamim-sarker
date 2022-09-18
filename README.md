@@ -1,4 +1,4 @@
-![image](./image/banner.svg)
+![image](./image/banner.jpg)
 
 # My Academic Projects
 
