@@ -74,3 +74,7 @@
 ## 12. CRUD Operation (Using Browser Local Storage)
 - Code Link: https://github.com/shamimspro/crud-local-storage
 - Live Preview: https://crud-local-storage-shamimspro.netlify.app/
+
+## 13. Rest Countries (Using API)
+- Code Link: https://github.com/shamimspro/rest-countries
+- Live Preview: https://rest-countries-shamimspro.netlify.app/
