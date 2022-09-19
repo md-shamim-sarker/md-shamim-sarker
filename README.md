@@ -29,27 +29,27 @@
 
 ## 01. Eid Zakat:
 - Code Link: https://github.com/shamimspro/eid-zakat/
-- Live Preview: https://shamimspro.github.io/eid-zakat/
+- Live Preview: https://eid-zakat-shamimspro.netlify.app/
 
 ## 02. Tech Lab:
 - Code Link: https://github.com/shamimspro/tech-lab/
-- Live Preview: https://shamimspro.github.io/tech-lab/
+- Live Preview: https://tech-lab-shamimspro.netlify.app/
 
 ## 03. Leader Board:
 - Code Link: https://github.com/shamimspro/leader-board/
-- Live Preview: https://shamimspro.github.io/leader-board/
+- Live Preview: https://leader-board-shamimspro.netlify.app/
 
 ## 04. Convention Center New:
 - Code Link: https://github.com/shamimspro/convention-center-new/
-- Live Preview: https://soft-kataifi-13f743.netlify.app/
+- Live Preview: https://convention-center-shamimspro.netlify.app/
 
 ## 05. Panda Commerce Bootstrap
 - Code Link: https://github.com/shamimspro/panda-commerce-bootstrap/
-- Live Preview: https://shamimspro.github.io/panda-commerce-bootstrap/
+- Live Preview: https://panda-commerce-shamimspro.netlify.app/
 
 ## 06. Nike React Commerce Bootstrap
 - Code Link: https://github.com/shamimspro/nike-react-bootstrap
-- Live Preview: https://iridescent-dasik-1b023c.netlify.app/
+- Live Preview: https://nike-react-shamimspro.netlify.app/
 
 ## 07. Simple Bank Using JavaScript DOM (Local Storage)
 - Code Link: https://github.com/shamimspro/simple-bank
@@ -57,19 +57,19 @@
 
 ## 08. Search Footballer By Name (Using API)
 - Code Link: https://github.com/shamimspro/search-footballer-api
-- Live Preview: https://beamish-kelpie-50204b.netlify.app/
+- Live Preview: https://search-footballer-shamimspro.netlify.app/
 
 ## 09. Phone Hunter (Using API)
 - Code Link: https://github.com/shamimspro/phone-hunter
-- Live Preview: https://incredible-boba-3e55ab.netlify.app/
+- Live Preview: https://phone-hunter-shamimspro.netlify.app/
   
 ## 10. Cocktail DB API (Using API)
 - Code Link: https://github.com/shamimspro/cocktail-db-api
-- Live Preview: https://iridescent-trifle-4def49.netlify.app/
+- Live Preview: https://cocktail-db-shamimspro.netlify.app/
 
 ## 11. Weather Updates By City (Using Real Api)
 - Code Link: https://github.com/shamimspro/weather-api
-- Live Preview: https://jocular-gumdrop-1ab022.netlify.app
+- Live Preview: https://weather-api-shamimspro.netlify.app/
 
 ## 12. CRUD Operation (Using Browser Local Storage)
 - Code Link: https://github.com/shamimspro/crud-local-storage
