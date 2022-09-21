@@ -86,3 +86,7 @@
 ## 15. First React App (API Fetch)
 - Code Link: https://github.com/shamimspro/react-folder-structure.git
 - Live Preview: https://first-react-app-shamimspro.netlify.app/
+
+## 16. React Revision part 1 (API Fetch)
+- Code Link: https://github.com/shamimspro/react-revision-1
+- Live Preview: https://react-revision-1-shamimspro.netlify.app/
