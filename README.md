@@ -83,7 +83,7 @@
 - Code Link: https://github.com/shamimspro/money-master
 - Live Preview: https://money-master-shamimspro.netlify.app/
 
-## 15. First React App (API Fetch)
+## 15. First React App (REST Countries) (API Fetch)
 - Code Link: https://github.com/shamimspro/react-folder-structure.git
 - Live Preview: https://first-react-app-shamimspro.netlify.app/
 
