@@ -25,6 +25,10 @@
 - Code Link: https://github.com/Programming-Hero-Web-Course4/b6-news-portal-assignment-shamimspro
 - Live Preview: https://bangladesh-news-shamimspro.netlify.app/
 
+## 07. Speed Monster (Debugging) (Assignment 07)
+- Code Link: https://github.com/programming-hero-web-course1/b6-type-monster-debug-assignment-shamimspro
+- Live Preview: https://typing-shamimspro.netlify.app/
+
 # My Practice Projects
 
 ## 01. Eid Zakat:
