@@ -29,6 +29,10 @@
 - Code Link: https://github.com/programming-hero-web-course1/b6-type-monster-debug-assignment-shamimspro
 - Live Preview: https://typing-shamimspro.netlify.app/
 
+## 08. Study Tracker (React Project) (Assignment 08)
+- Code Link: https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-shamimspro
+- Live Preview: https://study-tracker-shamimspro.netlify.app/
+
 # My Practice Projects
 
 ## 01. Eid Zakat:
