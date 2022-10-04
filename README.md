@@ -15,7 +15,8 @@
 - Live Preview: https://digital-education-shamimspro.netlify.app/
 
 ## 04. Problem Solving With JavaScript (Assignment 04)
-- Code Link: https://github.com/shamimspro/assignment-4
+- Code Link: https://github.com/shamimspro/javascript-problem-solving
+- Live Preview: https://javascript-problem-solving-shamimspro.netlify.app/
 
 ## 05. Select Best Five Players (Assignment 05)
 - Code Link: https://github.com/programming-hero-web-course2/best-five-dom-assignment-shamimspro
