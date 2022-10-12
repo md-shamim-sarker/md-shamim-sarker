@@ -107,3 +107,7 @@
 ## 18. Cooking Recipe (Use React Router)
 - Code Link: https://github.com/shamimspro/react-router-mealdb
 - Live Link: https://cooking-recipe-shamimspro.netlify.app/
+
+## 19. Ideal Waddle
+- Code Link: https://github.com/shamimspro/ideal-waddle.git
+- Live Link: https://ideal-waddle-shamimspro.netlify.app/
