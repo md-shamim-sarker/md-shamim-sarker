@@ -34,6 +34,15 @@
 - Code Link: https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-shamimspro
 - Live Preview: https://study-tracker-shamimspro.netlify.app/
 
+## 09.
+- Code Link: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-shamimspro
+- Live Preview: https://mcq-exam-shamimspro.netlify.app/
+
+## 10.
+- Client Side Code: https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-shamimspro
+- Server Side Code: https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-shamimspro
+- Live Preview: https://schooling-12a8c.web.app/
+
 # My Practice Projects
 
 ## 01. Eid Zakat:
@@ -71,7 +80,7 @@
 ## 09. Phone Hunter (Using API)
 - Code Link: https://github.com/shamimspro/phone-hunter
 - Live Preview: https://phone-hunter-shamimspro.netlify.app/
-  
+
 ## 10. Cocktail DB API (Using API)
 - Code Link: https://github.com/shamimspro/cocktail-db-api
 - Live Preview: https://cocktail-db-shamimspro.netlify.app/
