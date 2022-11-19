@@ -39,13 +39,13 @@
 - Live Preview: https://mcq-exam-shamimspro.netlify.app/
 
 ## 10.
-- Client Side Code: https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-shamimspro
-- Server Side Code: https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-shamimspro
+- Client Side Code: https://github.com/shamim-sarker-2023/schooling-client
+- Server Side Code: https://github.com/shamim-sarker-2023/schooling-server
 - Live Preview: https://schooling-12a8c.web.app/
 
 ## 11.
-- Client Side Code: https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-shamimspro
-- Server Side Code: https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-shamimspro
+- Client Side Code: https://github.com/shamim-sarker-2023/creative-construction-client
+- Server Side Code: https://github.com/shamim-sarker-2023/creative-construction-server
 - Live Preview: https://creative-construction-3a070.web.app/
 
 # My Practice Projects
