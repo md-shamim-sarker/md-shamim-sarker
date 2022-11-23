@@ -35,7 +35,7 @@
 - Live Preview: https://study-tracker-shamimspro.netlify.app/
 
 ## 09.
-- Code Link: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-shamimspro
+- Code Link: https://github.com/md-shamim-sarker/mcq-exam
 - Live Preview: https://mcq-exam-shamimspro.netlify.app/
 
 ## 10.
