@@ -48,6 +48,11 @@
 - Server Side Code: https://github.com/shamim-sarker-2023/creative-construction-server
 - Live Preview: https://creative-construction-3a070.web.app/
 
+## 12.
+- Client Side Code: https://github.com/md-shamim-sarker/dress-recycle-client
+- Server Side Code: https://github.com/md-shamim-sarker/dress-recycle-server
+- Live Preview: https://dress-recycle.web.app/
+
 # My Practice Projects
 
 ## 01. Eid Zakat:
@@ -125,3 +130,7 @@
 ## 19. Ideal Waddle
 - Code Link: https://github.com/shamimspro/ideal-waddle.git
 - Live Link: https://ideal-waddle-shamimspro.netlify.app/
+
+## 20. Shamim Docs
+- Code Link: https://github.com/md-shamim-sarker/shamim-docs
+- Live Link: https://shamim-docs.web.app/
