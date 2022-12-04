@@ -19,19 +19,19 @@
 - Live Preview: https://javascript-problem-solving-shamimspro.netlify.app/
 
 ## 05. Select Best Five Players (Assignment 05)
-- Code Link: https://github.com/programming-hero-web-course2/best-five-dom-assignment-shamimspro
+- Code Link: https://github.com/md-shamim-sarker/favorite-five-players
 - Live Preview: https://favorite-five-shamimspro.netlify.app/
 
 ## 06. News Portal (Assignment 06)
-- Code Link: https://github.com/Programming-Hero-Web-Course4/b6-news-portal-assignment-shamimspro
+- Code Link: https://github.com/md-shamim-sarker/bangladesh-news
 - Live Preview: https://bangladesh-news-shamimspro.netlify.app/
 
 ## 07. Speed Monster (Debugging) (Assignment 07)
-- Code Link: https://github.com/programming-hero-web-course1/b6-type-monster-debug-assignment-shamimspro
+- Code Link: https://github.com/md-shamim-sarker/typing-practice
 - Live Preview: https://typing-shamimspro.netlify.app/
 
 ## 08. Study Tracker (React Project) (Assignment 08)
-- Code Link: https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-shamimspro
+- Code Link: https://github.com/md-shamim-sarker/study-tracker-app
 - Live Preview: https://study-tracker-shamimspro.netlify.app/
 
 ## 09.
