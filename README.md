@@ -2,53 +2,53 @@
 
 # My Academic Projects
 
-## 01. Donate Today (Assignment 01)
+## 01. Donate Today (HTML CSS Project)
 - Code Link: https://github.com/shamimspro/donate-today/
 - Live Preview: https://donate-today-shamimspro.netlify.app/
 
-## 02. Fifa World Cup (Assignment 02)
+## 02. Fifa World Cup
 - Code Link: https://github.com/shamimspro/fifa-world-cup/
 - Live Preview: https://fifa-world-cup-shamimspro.netlify.app/
 
-## 03. Digital Education (Assignment 03)
+## 03. Digital Education
 - Code Link: https://github.com/shamimspro/digital-education/
 - Live Preview: https://digital-education-shamimspro.netlify.app/
 
-## 04. Problem Solving With JavaScript (Assignment 04)
+## 04. Problem Solving With JavaScript
 - Code Link: https://github.com/shamimspro/javascript-problem-solving
 - Live Preview: https://javascript-problem-solving-shamimspro.netlify.app/
 
-## 05. Select Best Five Players (Assignment 05)
+## 05. Select Best Five Players
 - Code Link: https://github.com/md-shamim-sarker/favorite-five-players
 - Live Preview: https://favorite-five-shamimspro.netlify.app/
 
-## 06. News Portal (Assignment 06)
+## 06. News Portal
 - Code Link: https://github.com/md-shamim-sarker/bangladesh-news
 - Live Preview: https://bangladesh-news-shamimspro.netlify.app/
 
-## 07. Speed Monster (Debugging) (Assignment 07)
+## 07. Speed Monster (Debugging)
 - Code Link: https://github.com/md-shamim-sarker/typing-practice
 - Live Preview: https://typing-shamimspro.netlify.app/
 
-## 08. Study Tracker (React Project) (Assignment 08)
+## 08. Study Tracker (React Project)
 - Code Link: https://github.com/md-shamim-sarker/study-tracker-app
 - Live Preview: https://study-tracker-shamimspro.netlify.app/
 
-## 09.
+## 09. MCQ Exam
 - Code Link: https://github.com/md-shamim-sarker/mcq-exam
 - Live Preview: https://mcq-exam-shamimspro.netlify.app/
 
-## 10.
+## 10. Schooling.com
 - Client Side Code: https://github.com/shamim-sarker-2023/schooling-client
 - Server Side Code: https://github.com/shamim-sarker-2023/schooling-server
 - Live Preview: https://schooling-12a8c.web.app/
 
-## 11.
+## 11. Creative Construction
 - Client Side Code: https://github.com/shamim-sarker-2023/creative-construction-client
 - Server Side Code: https://github.com/shamim-sarker-2023/creative-construction-server
 - Live Preview: https://creative-construction-3a070.web.app/
 
-## 12.
+## 12. Dress Recycle
 - Client Side Code: https://github.com/md-shamim-sarker/dress-recycle-client
 - Server Side Code: https://github.com/md-shamim-sarker/dress-recycle-server
 - Live Preview: https://dress-recycle.web.app/
